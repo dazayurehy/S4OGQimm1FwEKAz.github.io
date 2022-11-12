@@ -1,0 +1,162 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "La isla de las tentaciones",
+    "description": "",
+    "home_page_url": "https://laisla.ml",
+    "feed_url": "https://laisla.ml/feed.json",
+    "user_comment": "",
+    "icon": "https://laisla.ml/media/website/site_laisladelastentaciones_39e7.webp",
+    "author": {
+        "name": "islatentaciones"
+    },
+    "items": [
+        {
+            "id": "https://laisla.ml/programa-8-47423.html",
+            "url": "https://laisla.ml/programa-8-47423.html",
+            "title": "Programa 8",
+            "image": "https://laisla.ml/media/posts/79/79.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Programas Temporada 5"
+            ],
+            "date_published": "2022-11-10T23:43:40+00:00",
+            "date_modified": "2022-11-11T01:24:14+00:00"
+        },
+        {
+            "id": "https://laisla.ml/debate-7-26653.html",
+            "url": "https://laisla.ml/debate-7-26653.html",
+            "title": "Debate 7",
+            "image": "https://laisla.ml/media/posts/78/78.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-11-08T08:20:50+00:00",
+            "date_modified": "2022-11-08T17:02:03+00:00"
+        },
+        {
+            "id": "https://laisla.ml/programa-7-8513.html",
+            "url": "https://laisla.ml/programa-7-8513.html",
+            "title": "Programa 7",
+            "image": "https://laisla.ml/media/posts/77/77.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Programas Temporada 5"
+            ],
+            "date_published": "2022-11-04T00:50:10+00:00",
+            "date_modified": "2022-11-06T20:11:03+00:00"
+        },
+        {
+            "id": "https://laisla.ml/debate7-086423.html",
+            "url": "https://laisla.ml/debate7-086423.html",
+            "title": "Debate 6",
+            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/b2/7b/b27bed4b-e909-4602-8031-6bb3d422f84a/main.ism/picky.m3u8?hdnts=st=1667291325~exp=1667305725~acl=/*~hmac=d5e2efb21ed0140a822836e233d745e4fb5c34b4ec607c5ce589b8fe35959531\", parentId: \"#player\"});\n  </script>\n</p>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-11-01T08:30:50+00:00",
+            "date_modified": "2022-11-01T08:35:08+00:00"
+        },
+        {
+            "id": "https://laisla.ml/programa-6-66681.html",
+            "url": "https://laisla.ml/programa-6-66681.html",
+            "title": "Programa 6",
+            "image": "https://laisla.ml/media/posts/75/75.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Programas Temporada 5"
+            ],
+            "date_published": "2022-10-27T16:25:04+01:00",
+            "date_modified": "2022-10-28T01:34:48+01:00"
+        },
+        {
+            "id": "https://laisla.ml/debate5-087253.html",
+            "url": "https://laisla.ml/debate5-087253.html",
+            "title": "Debate 5",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-10-27T15:27:21+01:00",
+            "date_modified": "2022-10-29T21:15:57+01:00"
+        },
+        {
+            "id": "https://laisla.ml/debate-4-08712.html",
+            "url": "https://laisla.ml/debate-4-08712.html",
+            "title": "Debate 4",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-10-27T15:15:28+01:00",
+            "date_modified": "2022-10-27T23:30:44+01:00"
+        },
+        {
+            "id": "https://laisla.ml/programa-5-84310.html",
+            "url": "https://laisla.ml/programa-5-84310.html",
+            "title": "Programa 5",
+            "image": "https://laisla.ml/media/posts/70/70.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Programas Temporada 5"
+            ],
+            "date_published": "2022-10-27T15:04:11+01:00",
+            "date_modified": "2022-10-27T15:14:31+01:00"
+        },
+        {
+            "id": "https://laisla.ml/temporada-5-programa-4.html",
+            "url": "https://laisla.ml/temporada-5-programa-4.html",
+            "title": "Programa 4",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4730312264252\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Programas Temporada 5"
+            ],
+            "date_published": "2022-10-16T18:44:34+01:00",
+            "date_modified": "2022-10-27T15:06:14+01:00"
+        },
+        {
+            "id": "https://laisla.ml/debate-3-097381.html",
+            "url": "https://laisla.ml/debate-3-097381.html",
+            "title": "Debate 3",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4708235545148\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-10-11T09:10:47+01:00",
+            "date_modified": "2022-10-11T09:27:50+01:00"
+        }
+    ]
+}
