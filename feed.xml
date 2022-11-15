@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://laisla.ml/feed.xml" rel="self" />
     <link href="https://laisla.ml" />
-    <updated>2022-11-15T09:00:45+00:00</updated>
+    <updated>2022-11-15T12:43:38+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -33,7 +33,7 @@
             <category term="Temporada 5"/>
             <category term="Debates Temporada 5"/>
 
-        <updated>2022-11-15T09:00:45+00:00</updated>
+        <updated>2022-11-15T12:43:38+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -41,7 +41,7 @@
                 <div id="player"></div>
 <p>
 <script>
-    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/e1/31/e13105f5-3fa2-4d41-8c70-14acf41aa319/main.ism/picky.m3u8?hdnts=st=1668497025~exp=1668511424~acl=/*~hmac=f6dea95da51985b0a37b9abf438718ed94af80ae47fdefb17e09c93451c39e6e", parentId: "#player"});
+    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/e1/31/e13105f5-3fa2-4d41-8c70-14acf41aa319/main.ism/picky.m3u8?hdnts=st=1668516176~exp=1668530576~acl=/*~hmac=3bff828b6bd3a0439f00119c398b0fb7f5fc48cb3a45c65adb8ca2972687fee9", parentId: "#player"});
   </script>
 </p>
             ]]>
