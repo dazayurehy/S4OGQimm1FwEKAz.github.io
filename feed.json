@@ -29,7 +29,6 @@
             "id": "https://laisla.ml/debate-8-79523.html",
             "url": "https://laisla.ml/debate-8-79523.html",
             "title": "Debate 8",
-            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/e1/31/e13105f5-3fa2-4d41-8c70-14acf41aa319/main.ism/picky.m3u8?hdnts=st=1668516176~exp=1668530576~acl=/*~hmac=3bff828b6bd3a0439f00119c398b0fb7f5fc48cb3a45c65adb8ca2972687fee9\", parentId: \"#player\"});\n  </script>\n</p>",
             "image": "https://laisla.ml/media/posts/80/80.jpg",
             "author": {
                 "name": "islatentaciones"
@@ -39,7 +38,7 @@
                    "Debates Temporada 5"
             ],
             "date_published": "2022-11-10T23:43:40+00:00",
-            "date_modified": "2022-11-15T12:43:38+00:00"
+            "date_modified": "2022-11-15T18:27:09+00:00"
         },
         {
             "id": "https://laisla.ml/debate-7-26653.html",
