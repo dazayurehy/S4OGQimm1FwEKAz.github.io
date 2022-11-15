@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://laisla.ml/feed.xml" rel="self" />
     <link href="https://laisla.ml" />
-    <updated>2022-11-11T01:24:14+00:00</updated>
+    <updated>2022-11-15T09:00:45+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,9 +19,33 @@
             <category term="Temporada 5"/>
             <category term="Programas Temporada 5"/>
 
-        <updated>2022-11-11T01:24:14+00:00</updated>
+        <updated>2022-11-15T08:59:27+00:00</updated>
             <summary></summary>
         <content></content>
+    </entry>
+    <entry>
+        <title>Debate 8</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/debate-8-79523.html"/>
+        <id>https://laisla.ml/debate-8-79523.html</id>
+            <category term="Temporada 5"/>
+            <category term="Debates Temporada 5"/>
+
+        <updated>2022-11-15T09:00:45+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://laisla.ml/media/posts/80/80.jpg" alt="Debate 8" />
+                <div id="player"></div>
+<p>
+<script>
+    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/e1/31/e13105f5-3fa2-4d41-8c70-14acf41aa319/main.ism/picky.m3u8?hdnts=st=1668497025~exp=1668511424~acl=/*~hmac=f6dea95da51985b0a37b9abf438718ed94af80ae47fdefb17e09c93451c39e6e", parentId: "#player"});
+  </script>
+</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Debate 7</title>
@@ -145,24 +169,6 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4730312264252" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 3</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/debate-3-097381.html"/>
-        <id>https://laisla.ml/debate-3-097381.html</id>
-            <category term="Temporada 5"/>
-            <category term="Debates Temporada 5"/>
-
-        <updated>2022-10-11T09:27:50+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4708235545148" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

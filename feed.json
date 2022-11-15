@@ -23,7 +23,23 @@
                    "Programas Temporada 5"
             ],
             "date_published": "2022-11-10T23:43:40+00:00",
-            "date_modified": "2022-11-11T01:24:14+00:00"
+            "date_modified": "2022-11-15T08:59:27+00:00"
+        },
+        {
+            "id": "https://laisla.ml/debate-8-79523.html",
+            "url": "https://laisla.ml/debate-8-79523.html",
+            "title": "Debate 8",
+            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/e1/31/e13105f5-3fa2-4d41-8c70-14acf41aa319/main.ism/picky.m3u8?hdnts=st=1668497025~exp=1668511424~acl=/*~hmac=f6dea95da51985b0a37b9abf438718ed94af80ae47fdefb17e09c93451c39e6e\", parentId: \"#player\"});\n  </script>\n</p>",
+            "image": "https://laisla.ml/media/posts/80/80.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-11-10T23:43:40+00:00",
+            "date_modified": "2022-11-15T09:00:45+00:00"
         },
         {
             "id": "https://laisla.ml/debate-7-26653.html",
@@ -142,21 +158,6 @@
             ],
             "date_published": "2022-10-16T18:44:34+01:00",
             "date_modified": "2022-10-27T15:06:14+01:00"
-        },
-        {
-            "id": "https://laisla.ml/debate-3-097381.html",
-            "url": "https://laisla.ml/debate-3-097381.html",
-            "title": "Debate 3",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4708235545148\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 5",
-                   "Debates Temporada 5"
-            ],
-            "date_published": "2022-10-11T09:10:47+01:00",
-            "date_modified": "2022-10-11T09:27:50+01:00"
         }
     ]
 }
