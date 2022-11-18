@@ -3,12 +3,27 @@
     <title>La isla de las tentaciones</title>
     <link href="https://laisla.ml/feed.xml" rel="self" />
     <link href="https://laisla.ml" />
-    <updated>2022-11-17T21:32:34+00:00</updated>
+    <updated>2022-11-18T00:24:03+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://laisla.ml</id>
 
+    <entry>
+        <title>Programa 9</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/programa-9-2.html"/>
+        <id>https://laisla.ml/programa-9-2.html</id>
+        <media:content url="https://laisla.ml/media/posts/98/88.jpg" medium="image" />
+            <category term="Temporada 5"/>
+            <category term="Programas Temporada 5"/>
+
+        <updated>2022-11-18T00:24:03+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Programa 1</title>
         <author>
@@ -137,21 +152,6 @@
         <link href="https://laisla.ml/debate-1-19149.html"/>
         <id>https://laisla.ml/debate-1-19149.html</id>
         <media:content url="https://laisla.ml/media/posts/89/89.jpg" medium="image" />
-            <category term="Temporada 5"/>
-            <category term="Debates Temporada 5"/>
-
-        <updated>2022-11-17T21:32:34+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Debate 2</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/debate-2-90810.html"/>
-        <id>https://laisla.ml/debate-2-90810.html</id>
-        <media:content url="https://laisla.ml/media/posts/90/90.jpg" medium="image" />
             <category term="Temporada 5"/>
             <category term="Debates Temporada 5"/>
 
