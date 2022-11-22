@@ -3,12 +3,38 @@
     <title>La isla de las tentaciones</title>
     <link href="https://laisla.ml/feed.xml" rel="self" />
     <link href="https://laisla.ml" />
-    <updated>2022-11-18T00:46:19+00:00</updated>
+    <updated>2022-11-22T01:03:40+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://laisla.ml</id>
 
+    <entry>
+        <title>Telecinco</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/telecinco/"/>
+        <id>https://laisla.ml/telecinco/</id>
+            <category term="En directo"/>
+
+        <updated>2022-11-22T01:03:40+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Cuatro</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/cuatro/"/>
+        <id>https://laisla.ml/cuatro/</id>
+            <category term="En directo"/>
+
+        <updated>2022-11-22T01:03:05+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Programa 9</title>
         <author>
@@ -124,36 +150,6 @@
         <media:content url="https://laisla.ml/media/posts/87/87.jpg" medium="image" />
             <category term="Temporada 5"/>
             <category term="Programas Temporada 5"/>
-
-        <updated>2022-11-17T21:32:34+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Programa 8</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/programa-8-79382/"/>
-        <id>https://laisla.ml/programa-8-79382/</id>
-        <media:content url="https://laisla.ml/media/posts/88/88.jpg" medium="image" />
-            <category term="Temporada 5"/>
-            <category term="Programas Temporada 5"/>
-
-        <updated>2022-11-17T21:32:34+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Debate 1</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/debate-1-19149/"/>
-        <id>https://laisla.ml/debate-1-19149/</id>
-        <media:content url="https://laisla.ml/media/posts/89/89.jpg" medium="image" />
-            <category term="Temporada 5"/>
-            <category term="Debates Temporada 5"/>
 
         <updated>2022-11-17T21:32:34+00:00</updated>
             <summary></summary>
