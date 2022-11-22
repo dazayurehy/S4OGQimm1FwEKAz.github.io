@@ -3,12 +3,42 @@
     <title>La isla de las tentaciones</title>
     <link href="https://laisla.ml/feed.xml" rel="self" />
     <link href="https://laisla.ml" />
-    <updated>2022-11-22T01:03:40+00:00</updated>
+    <updated>2022-11-22T07:35:12+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://laisla.ml</id>
 
+    <entry>
+        <title>Programa 9</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/programa-9-60959/"/>
+        <id>https://laisla.ml/programa-9-60959/</id>
+        <media:content url="https://laisla.ml/media/posts/101/101.jpg" medium="image" />
+            <category term="Temporada 5"/>
+            <category term="Programas Temporada 5"/>
+
+        <updated>2022-11-22T07:34:43+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Debate 9</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/debate-9-16723/"/>
+        <id>https://laisla.ml/debate-9-16723/</id>
+        <media:content url="https://laisla.ml/media/posts/102/102.jpg" medium="image" />
+            <category term="Temporada 5"/>
+            <category term="Debates Temporada 5"/>
+
+        <updated>2022-11-22T07:34:43+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Telecinco</title>
         <author>
@@ -18,7 +48,7 @@
         <id>https://laisla.ml/telecinco/</id>
             <category term="En directo"/>
 
-        <updated>2022-11-22T01:03:40+00:00</updated>
+        <updated>2022-11-22T07:35:12+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -32,21 +62,6 @@
             <category term="En directo"/>
 
         <updated>2022-11-22T01:03:05+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Programa 9</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/programa-9-2/"/>
-        <id>https://laisla.ml/programa-9-2/</id>
-        <media:content url="https://laisla.ml/media/posts/98/88.jpg" medium="image" />
-            <category term="Temporada 5"/>
-            <category term="Programas Temporada 5"/>
-
-        <updated>2022-11-18T00:46:19+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -133,21 +148,6 @@
         <link href="https://laisla.ml/programa-6-8886/"/>
         <id>https://laisla.ml/programa-6-8886/</id>
         <media:content url="https://laisla.ml/media/posts/86/86.jpg" medium="image" />
-            <category term="Temporada 5"/>
-            <category term="Programas Temporada 5"/>
-
-        <updated>2022-11-17T21:32:34+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Programa 7</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/programa-7-93892/"/>
-        <id>https://laisla.ml/programa-7-93892/</id>
-        <media:content url="https://laisla.ml/media/posts/87/87.jpg" medium="image" />
             <category term="Temporada 5"/>
             <category term="Programas Temporada 5"/>
 
