@@ -3,12 +3,48 @@
     <title>La isla de las tentaciones</title>
     <link href="https://laisla.ml/feed.xml" rel="self" />
     <link href="https://laisla.ml" />
-    <updated>2022-11-22T07:35:12+00:00</updated>
+    <updated>2022-11-25T00:35:31+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://laisla.ml</id>
 
+    <entry>
+        <title>Programa 10</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/programa-10-99175/"/>
+        <id>https://laisla.ml/programa-10-99175/</id>
+        <media:content url="https://laisla.ml/media/posts/104/104.jpg" medium="image" />
+            <category term="Temporada 5"/>
+            <category term="Programas Temporada 5"/>
+
+        <updated>2022-11-25T00:35:31+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Telecinco &amp; Cuatro ya disponible</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/telecinco-and-cuatro-ya-disponible/"/>
+        <id>https://laisla.ml/telecinco-and-cuatro-ya-disponible/</id>
+            <category term="Noticias"/>
+
+        <updated>2022-11-22T10:34:57+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Ya disponible los dos canales donde se emite 'La isla de las tentaciones' para seguir en directo los programas y debates del programa en la&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ya disponible los dos canales donde se emite 'La isla de las tentaciones' para seguir <strong>en directo</strong> los programas y debates del programa en la seccion <a href="https://laisla.ml/ver/en-directo/">'En directo'</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 9</title>
         <author>
@@ -118,36 +154,6 @@
         <link href="https://laisla.ml/programa-4-75633/"/>
         <id>https://laisla.ml/programa-4-75633/</id>
         <media:content url="https://laisla.ml/media/posts/84/84.jpg" medium="image" />
-            <category term="Temporada 5"/>
-            <category term="Programas Temporada 5"/>
-
-        <updated>2022-11-17T21:32:34+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Programa 5</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/programa-5-95416/"/>
-        <id>https://laisla.ml/programa-5-95416/</id>
-        <media:content url="https://laisla.ml/media/posts/85/85.jpg" medium="image" />
-            <category term="Temporada 5"/>
-            <category term="Programas Temporada 5"/>
-
-        <updated>2022-11-17T21:32:34+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Programa 6</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/programa-6-8886/"/>
-        <id>https://laisla.ml/programa-6-8886/</id>
-        <media:content url="https://laisla.ml/media/posts/86/86.jpg" medium="image" />
             <category term="Temporada 5"/>
             <category term="Programas Temporada 5"/>
 
