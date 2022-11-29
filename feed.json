@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://laisla.ml/debate-10-67345/",
+            "url": "https://laisla.ml/debate-10-67345/",
+            "title": "Debate 10",
+            "image": "https://laisla.ml/media/posts/105/105.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-11-29T07:42:43+00:00",
+            "date_modified": "2022-11-29T07:42:43+00:00"
+        },
+        {
             "id": "https://laisla.ml/programa-10-99175/",
             "url": "https://laisla.ml/programa-10-99175/",
             "title": "Programa 10",
@@ -130,21 +145,6 @@
             "url": "https://laisla.ml/programa-3-45656/",
             "title": "Programa 3",
             "image": "https://laisla.ml/media/posts/83/83.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 5",
-                   "Programas Temporada 5"
-            ],
-            "date_published": "2022-11-17T21:32:34+00:00",
-            "date_modified": "2022-11-17T21:32:34+00:00"
-        },
-        {
-            "id": "https://laisla.ml/programa-4-75633/",
-            "url": "https://laisla.ml/programa-4-75633/",
-            "title": "Programa 4",
-            "image": "https://laisla.ml/media/posts/84/84.jpg",
             "author": {
                 "name": "islatentaciones"
             },
