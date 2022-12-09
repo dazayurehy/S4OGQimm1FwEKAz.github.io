@@ -3,12 +3,27 @@
     <title>La isla de las tentaciones</title>
     <link href="https://laisla.ml/feed.xml" rel="self" />
     <link href="https://laisla.ml" />
-    <updated>2022-12-06T08:40:18+00:00</updated>
+    <updated>2022-12-09T00:09:13+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://laisla.ml</id>
 
+    <entry>
+        <title>Programa 12</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://laisla.ml/programa-12-52504/"/>
+        <id>https://laisla.ml/programa-12-52504/</id>
+        <media:content url="https://laisla.ml/media/posts/108/108.jpg" medium="image" />
+            <category term="Temporada 5"/>
+            <category term="Programas Temporada 5"/>
+
+        <updated>2022-12-09T00:09:02+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Debate 11</title>
         <author>
@@ -20,7 +35,7 @@
             <category term="Temporada 5"/>
             <category term="Debates Temporada 5"/>
 
-        <updated>2022-12-06T08:40:18+00:00</updated>
+        <updated>2022-12-09T00:09:13+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -143,21 +158,6 @@
             <category term="En directo"/>
 
         <updated>2022-11-22T01:03:05+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Programa 1</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://laisla.ml/programa-1-28717/"/>
-        <id>https://laisla.ml/programa-1-28717/</id>
-        <media:content url="https://laisla.ml/media/posts/81/81.jpg" medium="image" />
-            <category term="Temporada 5"/>
-            <category term="Programas Temporada 5"/>
-
-        <updated>2022-11-17T21:32:34+00:00</updated>
             <summary></summary>
         <content></content>
     </entry>
